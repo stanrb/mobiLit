@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Top-Scores-Master-Table" numRows="2" numCols="5" flags="9" tableType="0">
+    <rows>
+        <row id="0" name="Module 1"/>
+        <row id="1" name="Module 2"/>
+    </rows>
+    <columns>
+        <column id="0" name="Lesson 1" type="2" readonly="0">0,0</column>
+        <column id="1" name="Lesson 2" type="2" readonly="0">0,0</column>
+        <column id="2" name="Lesson 3" type="2" readonly="0">0,0</column>
+        <column id="3" name="Lesson 4" type="2" readonly="0">0,0</column>
+        <column id="4" name="Lesson 5" type="2" readonly="0">0,0</column>
+    </columns>
+</table>

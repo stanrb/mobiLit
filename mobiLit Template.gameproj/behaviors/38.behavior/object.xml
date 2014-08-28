@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<behavior PGFVersion="0.20" id="id585219" class="MoveBehavior" GSCVersion="0.11.1.11" enabled="true"><attributes><text id="name">Move</text><text id="bundleName">Move.behavior</text><angle id="direction">90</angle><index id="space">1</index><index id="moveType">0</index><real id="speed">25</real><boolean id="haltWhenBehaviorStops">true</boolean></attributes></behavior>

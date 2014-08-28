@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<behavior PGFVersion="0.20" id="id889625" class="ChangeAttributeAction" GSCVersion="0.11.1.11" enabled="true"><attributes><text id="name">Give Player Two Points</text><text id="bundleName">ChangeAttribute.behavior</text><text id="targetAttribute">game.attributes.id687937</text><text id="RHS"><expression><reference keypath="game.attributes.id687937"/><string xml:space="preserve">+2</string></expression></text></attributes></behavior>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="A-Multiple-Choice-Table2" numRows="10" numCols="5" flags="9" tableType="0">
+    <rows>
+        <row id="0" name="Lesson 1 Answer Choice"/>
+        <row id="1" name="Right/Wrong"/>
+        <row id="2" name="Lesson 2 Answer Choice"/>
+        <row id="3" name="Right/Wrong"/>
+        <row id="4" name="Lesson 3 Answers"/>
+        <row id="5" name="Right/Wrong"/>
+        <row id="6" name="Lesson 4 Answer"/>
+        <row id="7" name="right/wrong"/>
+        <row id="8" name="Lesson 5 Answer"/>
+        <row id="9" name="right/wrong"/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="1" readonly="1">Read the assignment instructions,right,It has only one explanation to the topic,wrong,See how other disciplines approach it,wrong,Encyclopedias and Reference Books,right,Carefully read assignment,right</column>
+        <column id="1" name="" type="1" readonly="0">,,Too Narrow,wrong,,,Scholarly Journals,wrong,It interests you,right</column>
+        <column id="2" name="" type="1" readonly="0">,,Too Narrow,wrong,,,Reference Books,wrong,Too Narrow,wrong</column>
+        <column id="3" name="" type="1" readonly="0">,,Too Narrow,right,&quot;urban poor&quot;,wrong,Scholarly Journal,wrong,Talk to a librarian about it,wrong</column>
+        <column id="4" name="" type="1" readonly="0">Try to find some articles,wrong,Too Narrow,wrong,&quot;income disparity&quot; OR inequality,wrong,,,It will broaden your search,right</column>
+    </columns>
+</table>

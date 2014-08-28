@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="A-Multiple-Choice-Table3" numRows="10" numCols="5" flags="9" tableType="0">
+    <rows>
+        <row id="0" name="Lesson 1 Answer Choice"/>
+        <row id="1" name="Right/Wrong"/>
+        <row id="2" name="Lesson 2 Answer Choice"/>
+        <row id="3" name="Right/Wrong"/>
+        <row id="4" name="Lesson 3 Answers"/>
+        <row id="5" name="Right/Wrong"/>
+        <row id="6" name="Lesson 4 Answer"/>
+        <row id="7" name="right/wrong"/>
+        <row id="8" name="Lesson 5 Answer"/>
+        <row id="9" name="right/wrong"/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="1" readonly="0">Google &quot;income inequality&quot;,wrong,You find thousands of articles about it,wrong,All of the above,right,Scholarly Journals,wrong,Find synonyms for the key words,wrong</column>
+        <column id="1" name="" type="1" readonly="0">,,Just Right,wrong,,,Encyclopedias,wrong,You find thousands of articles about it,wrong</column>
+        <column id="2" name="" type="1" readonly="0">,,Just Right,right,,,News Sources,wrong,Just Right,wrong</column>
+        <column id="3" name="" type="1" readonly="0">,,Just Right,wrong,&quot;urban poor&quot; AND &quot;social conditions&quot;,right,Newspaper,right,All of the above,right</column>
+        <column id="4" name="" type="1" readonly="0">Start writing an introduction,wrong,Just Right,wrong,&quot;poor people&quot; AND disparity,wrong,,,It will narrow your topic,wrong</column>
+    </columns>
+</table>

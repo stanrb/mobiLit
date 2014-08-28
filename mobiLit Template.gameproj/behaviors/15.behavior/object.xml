@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<behavior PGFVersion="0.20" id="id486558" class="ChangeAttributeAction" GSCVersion="0.11.1.11" enabled="true"><attributes><text id="name">Disable Touch</text><text id="bundleName">ChangeAttribute.behavior</text><text id="targetAttribute">game.attributes.id101504</text><text id="RHS">true</text></attributes></behavior>

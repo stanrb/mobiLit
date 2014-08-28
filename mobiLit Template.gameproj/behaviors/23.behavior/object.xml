@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<behavior PGFVersion="0.20" id="id573410" class="SpawnAction" GSCVersion="0.11.1.11" enabled="true"><attributes><text id="name">Spawn Actor</text><text id="bundleName">Spawn.behavior</text><text id="prototypeKey">id947654</text><angle id="direction">0</angle><index id="directionSpace">0</index><real id="x">0</real><real id="y">-62</real><index id="positionSpace">0</index><index id="layerOrder">0</index></attributes></behavior>

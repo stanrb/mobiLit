@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="A-Typing-Table" numRows="3" numCols="5" flags="9" tableType="0">
+    <rows>
+        <row id="0" name="Lesson 1 Answer"/>
+        <row id="1" name="Lesson 2 Answer"/>
+        <row id="2" name="Lesson 3 Answers"/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="1" readonly="1">,,</column>
+        <column id="1" name="" type="1" readonly="0">income inequality,,urban</column>
+        <column id="2" name="" type="1" readonly="0">examine,,disparity</column>
+        <column id="3" name="" type="1" readonly="0">three to five,,</column>
+        <column id="4" name="" type="1" readonly="0">,,</column>
+    </columns>
+</table>

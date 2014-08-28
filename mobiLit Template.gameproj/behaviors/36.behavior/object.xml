@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<behavior PGFVersion="0.20" id="id230312" class="ChangeAttributeAction" GSCVersion="0.11.1.11" enabled="true"><attributes><text id="name">Add &quot;Right&quot; counter to Drag and Drop</text><text id="bundleName">ChangeAttribute.behavior</text><text id="targetAttribute">game.attributes.id864037</text><text id="RHS"><expression><reference keypath="game.attributes.id864037"/><string xml:space="preserve">+1</string></expression></text></attributes></behavior>

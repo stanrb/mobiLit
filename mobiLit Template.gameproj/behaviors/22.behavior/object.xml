@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<behavior PGFVersion="0.20" id="id329114" class="ConstrainAttributeBehavior" GSCVersion="0.11.1.11" enabled="true"><attributes><text id="name">Constrain Attribute</text><text id="bundleName">ConstrainAttribute.behavior</text><text id="targetAttribute">self.attributes.position.x</text><text id="RHS"><expression><reference keypath="game.attributes.id629302"/></expression></text></attributes></behavior>

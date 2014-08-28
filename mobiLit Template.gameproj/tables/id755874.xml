@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Q-Multiple-Choice-Table" numRows="10" numCols="5" flags="9" tableType="0">
+    <rows>
+        <row id="0" name="Lesson 1 Prompts"/>
+        <row id="1" name="Lesson 1 Questions"/>
+        <row id="2" name="Lesson 2 Prompts"/>
+        <row id="3" name="Lesson 2 Questions"/>
+        <row id="4" name="Lesson 3 Prompt"/>
+        <row id="5" name="Lesson 3 Question"/>
+        <row id="6" name="Lesson 4 Prompt"/>
+        <row id="7" name="Lesson 4 Question"/>
+        <row id="8" name="Lesson 5 Prompt"/>
+        <row id="9" name="Lesson 5 Question"/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="1" readonly="0">Your professor asks you to write a paper on income inequality.,What should be the first thing you do?,The income inequality assignment is very broad and can be viewed from many angles.,What makes a good topic choice for it?,Let&apos;s say you pick the topic of &quot;income inequality in urban areas.&quot;,What is something you can do to help you narrow your topic?,If you don&apos;t know much about your topic\, you should browse some general sources to get familiar with it.,What&apos;s a good place to start?,Let&apos;s see what you&apos;ve learned so far. Ace this quiz to complete mobiLit&apos;s Beginning Research.,What is the most important thing you should do before beginning research?</column>
+        <column id="1" name="" type="1" readonly="0">,,&quot;Income statistics in different demographics.&quot;,Is this topic too broad\, too narrow\, or just right?,,,If you are at least somewhat familiar with the topic\, it&apos;s a good idea to learn a little more about it before you start writing.,What&apos;s a good place to learn more about a topic?,Let&apos;s see what you&apos;ve learned so far. Ace this quiz to complete mobiLit&apos;s Beginning Research.,What is one characteristic of a good topic?</column>
+        <column id="2" name="" type="1" readonly="0">,,&quot;Reasons for the widening income gap from the last 20 years.&quot;,Too broad\, too narrow\, or just right?,,,Sometimes you know quite a bit already and just want to get more details about a topic.,What are some sources that will offer you more in-depth research and analyses?,You have the following research question - &quot;Does income disparity cause harm?&quot;,Is it too broad\, too narrow\, or just right?</column>
+        <column id="3" name="" type="1" readonly="0">,,&quot;Poor and rich families in Nassau County\, NY.&quot;,Too broad\, too narrow\, or just right?,Not all key words combinations can help you focus your research.,Which of these might best do that for the previous research question?,Sometimes your topic requires you to find more current or regional information.,Which of these is a good source for that?,Let&apos;s see what you&apos;ve learned so far. Ace this quiz to complete mobiLit&apos;s Beginning Research.,What is a way to focus a topic?</column>
+        <column id="4" name="" type="1" readonly="0">You&apos;ve carefully read your assignment\, but it seems a little too broad.,What should you do next?,&quot;Media bias in reporting income disparity.&quot;,Too broad\, too narrow\, or just right?,Even synonyms\, when combined improperly\, may not be helpful to you.,Which of these might best help focus your search?,,,It is a good idea to use different words to describe similar ideas when researching.,Why is that so?</column>
+    </columns>
+</table>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<behavior PGFVersion="0.20" id="id226319" class="ChangeAttributeAction" GSCVersion="0.11.1.11" enabled="true"><attributes><text id="name">Reset Wrong Answer</text><text id="bundleName">ChangeAttribute.behavior</text><text id="targetAttribute">game.attributes.id837284</text><text id="RHS">false</text></attributes></behavior>

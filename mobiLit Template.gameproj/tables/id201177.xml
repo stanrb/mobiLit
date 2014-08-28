@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Passing-Grades-Table" numRows="2" numCols="5" flags="9" tableType="0">
+    <rows>
+        <row id="0" name="Minimum Percent to Get"/>
+        <row id="1" name="Possible Max Points"/>
+    </rows>
+    <columns>
+        <column id="0" name="A" type="2" readonly="0">80,65</column>
+        <column id="1" name="B" type="2" readonly="0">70,0</column>
+        <column id="2" name="C" type="2" readonly="0">60,0</column>
+        <column id="3" name="D" type="2" readonly="0">50,0</column>
+        <column id="4" name="F" type="2" readonly="0">0,0</column>
+    </columns>
+</table>

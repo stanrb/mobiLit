@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Q-Typing-Table" numRows="6" numCols="5" flags="9" tableType="0">
+    <rows>
+        <row id="0" name="Lesson 1 Text"/>
+        <row id="1" name="Lesson 1 Question"/>
+        <row id="2" name="Lesson 2 Text"/>
+        <row id="3" name="Lesson 2 Question"/>
+        <row id="4" name="Lesson 3 Text"/>
+        <row id="5" name="Lesson 3 Question"/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="1" readonly="0">,,,,,</column>
+        <column id="1" name="" type="1" readonly="0">&quot;In this paper\, you will explore income inequality in the United States. Using library resources\, examine an aspect of this issue and discuss its relevance in today&apos;s society. You need three to five authoritative sources.&quot;,What is the key theme or topic of this assignment?,,,Let&apos;s say the most interesting question you came up with is &quot;Who are the most vulnerable?&quot; Your research question might now be &quot;Who are the most vulnerable in urban areas with growing income inequality?&quot;,What are the key words or phrases that describe the topic question below?</column>
+        <column id="2" name="" type="1" readonly="0">&quot;In this paper\, you will explore income inequality in the United States. Using library resources\, examine an aspect of this issue and discuss its relevance in today&apos;s society. You need three to five authoritative sources.&quot;,What is the assignment asking you to do with the key theme?,,,Synonyms are important in your research because you’ll often need to search for different words relating to the same concept.,What are some synonyms for &quot;income inequality&quot;?</column>
+        <column id="3" name="" type="1" readonly="0">&quot;In this paper\, you will explore income inequality in the United States. Using library resources\, examine an aspect of this issue and discuss its relevance in today&apos;s society. You need three to five authoritative sources.&quot;,What are the requirements you must meet with your paper?,,,,</column>
+        <column id="4" name="" type="1" readonly="0">,,,,,</column>
+    </columns>
+</table>
